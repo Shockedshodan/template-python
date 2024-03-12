@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   app:
   - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2024-03-12T12:45:45.379260242Z"
+    description: Web service template in Python for reuse.
+    digest: 44b763a340304ef9b833e3c6fc009a7e6b7f6eb54c7a5c6ad0596b01c3a7b41f
+    name: app
+    type: application
+    urls:
+    - https://Shockedshodan.github.io/template-python/charts-repo/app-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
     appVersion: 0.1.0-dev.0.HHT-331-update-d.de8c92d6
     created: "2024-03-12T12:42:07.912862032Z"
     description: Web service template in Python for reuse.
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://Shockedshodan.github.io/template-python/charts-repo/app-0.1.0-dev.0.HHT-331-update-d.de8c92d6.tgz
     version: 0.1.0-dev.0.HHT-331-update-d.de8c92d6
-generated: "2024-03-12T12:42:07.912440185Z"
+generated: "2024-03-12T12:45:45.378731807Z"
